@@ -9,8 +9,8 @@ import java.util.Random;
  */
 
 public class ColorWheel {
-    private final String[] COLORS = {
-            "#39add1", // light blue
+    final String[] COLORS = {
+            "#51b46d", // green
             "#3079ab", // dark blue
             "#c25975", // mauve
             "#e15258", // red
@@ -18,7 +18,7 @@ public class ColorWheel {
             "#838cc7", // lavender
             "#7d669e", // purple
             "#53bbb4", // aqua
-            "#51b46d", // green
+            "#39add1", // light blue
             "#e0ab18", // mustard
             "#637a91", // dark gray
             "#f092b0", // pink
